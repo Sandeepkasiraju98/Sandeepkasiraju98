@@ -9,7 +9,7 @@ I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and fo
 - 🔹 ML Data Associate @ **Amazon** – Built & validated ML pipelines  
 - 🔹 Data Science Intern @ **Corizo** – Delivered KPI-tracking dashboards & marketing analytics  
 📊 **Career Focus**: Data Science | AI/ML | Data Engineering | Business Intelligence  
-📚 **Interests: Predictive Modeling**, Business Intelligence, Data Visualization, Machine Learning, Statistical Analysis, Cloud Data Engineering, and Data-Driven Decision Making
+📚 **Interests**: Predictive Modeling, Business Intelligence, Data Visualization, Machine Learning, Statistical Analysis, Cloud Data Engineering, and Data-Driven Decision Making
  
 
 

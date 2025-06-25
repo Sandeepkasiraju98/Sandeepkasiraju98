@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Sandeep Kasiraju**, a Data Scientist in the making and former Amazon ML Data Associate, with strong foundations in AI, cloud, and high-performance computing. I specialize in building scalable, production-ready systems that turn complex data into actionable insights and intelligent automation.
+I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and former Amazon ML Data Associate, with a strong foundation in AI, cloud computing, and high-performance systems. I’m passionate about transforming complex data into meaningful insights and building scalable, real-world solutions that drive impact.
 
 
 ### 🚀 Who I Am  
@@ -9,8 +9,8 @@ I'm **Sandeep Kasiraju**, a Data Scientist in the making and former Amazon ML Da
 - 🔹 ML Data Associate @ **Amazon** – Built & validated ML pipelines  
 - 🔹 Data Science Intern @ **Corizo** – Delivered KPI-tracking dashboards & marketing analytics  
 📊 **Career Focus**: Data Science | AI/ML | Data Engineering | Business Intelligence  
-📚 **Interests**: Generative AI, HPC, Graph AI, Scientific Computing, Real-Time Systems  
-🧠 **Currently Exploring**: Physics-Informed Models, Ensemble Learning, Production-Scale ML  
+📚 **Interests: Predictive Modeling**, Business Intelligence, Data Visualization, Machine Learning, Statistical Analysis, Cloud Data Engineering, and Data-Driven Decision Making
+ 
 
 
 ### 💼 What I Bring to the Table  
@@ -34,9 +34,7 @@ I'm **Sandeep Kasiraju**, a Data Scientist in the making and former Amazon ML Da
 ### 📂 Highlighted Projects  
 - 🔍 **Real-Time Human Detection** – YOLOv3 + MPI/OpenMP for parallel video processing  
 - 📊 **Sales Forecasting & Incentive Optimization** – XGBoost + Power BI dashboards  
-- 🏥 **Healthcare Analytics Platform** – EHR data pipelines with Flask, MongoDB, Docker  
-- ⚛️ **AI for Gravitational Waves** – Ensemble GNN-HDCN model design for astrophysics  
-- 📈 **BI Reports for Marketing Analytics** – Dynamic KPI dashboards with Power BI + SQL  
+- 🏥 **Healthcare Analytics Platform** – EHR data pipelines with Flask, MongoDB, Docker    
 
 
 

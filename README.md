@@ -4,7 +4,7 @@ I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and fo
 
 ### 🚀 Who I Am  
 🎓 **M.S. in Data Science (4.0 GPA)** – University of Massachusetts Dartmouth  
-🏫 **B.Tech in Electrical & Electronics Engineering** – GRIET, JNTU-H  
+🏫 **B.Tech in Electrical & Electronics Engineering** – JNTU-H  
 🏢 **Industry Experience**:  
 - 🔹 ML Data Associate @ **Amazon** – Built & validated ML pipelines  
 - 🔹 Data Science Intern @ **Corizo** – Delivered KPI-tracking dashboards & marketing analytics  

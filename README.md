@@ -15,7 +15,7 @@ I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and fo
 
 ### 💼 What I Bring to the Table  
 - ✅ End-to-end ML modeling: From raw data → pipelines → inference → dashboards  
-- ✅ Hands-on with cloud-native ML & analytics (AWS, GCP, Docker, BigQuery)  
+- ✅ Hands-on with cloud-native ML & analytics (AWS, Docker, BigQuery)  
 - ✅ Strong communicator: bridging tech, product, and business needs  
 - ✅ Focused on building **robust, scalable, explainable AI** solutions  
 - ✅ Agile, analytical mindset – passionate about learning & shipping fast
@@ -23,9 +23,9 @@ I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and fo
 
 
 ### 🛠️ Core Technical Skills  
-- **Languages**: Python, SQL, R, SAS, C  
+- **Languages**: Python, SQL, R, C  
 - **ML/AI**: Scikit-learn, XGBoost, PyTorch, TensorFlow, YOLOv3  
-- **Cloud & Big Data**: AWS, GCP, Spark, Hadoop, BigQuery, Docker  
+- **Cloud & Big Data**: AWS, Spark, Hadoop, BigQuery, Docker  
 - **Data Engineering**: Pandas, NumPy, MongoDB, MySQL, ETL workflows  
 - **BI & Visualization**: Power BI, Tableau, Excel, Google Sheets  
 - **Dev Tools**: Git, VS Code, Jupyter, Flask, Bash, Agile, CI/CD basics
@@ -33,7 +33,7 @@ I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and fo
 
 ### 📂 Highlighted Projects  
 - 🔍 **Real-Time Human Detection** – YOLOv3 + MPI/OpenMP for parallel video processing  
-- 📊 **Sales Forecasting & Incentive Optimization** – XGBoost + Power BI dashboards  
+- 📊 **Vision-Based ASL Alphabet Recognition Platform** - Deep Learning | Python, TensorFlow, Keras, Scikit-learn
 - 🏥 **Healthcare Analytics Platform** – EHR data pipelines with Flask, MongoDB, Docker    
 
 

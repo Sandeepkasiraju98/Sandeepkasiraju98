@@ -8,13 +8,10 @@ I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and fo
 🏢 **Industry Experience**:  
 - 🔹 ML Data Associate @ **Amazon** – Built & validated ML pipelines  
 - 🔹 Data Science Intern @ **Corizo** – Delivered KPI-tracking dashboards & marketing analytics  
-📊 **Career Focus**: Data Science | AI/ML | Data Engineering | Business Intelligence  
-📚 **Interests**: Predictive Modeling, Business Intelligence, Data Visualization, Machine Learning, Statistical Analysis, Cloud Data Engineering, and Data-Driven Decision Making
  
 
 
 ### 💼 What I Bring to the Table  
-- ✅ End-to-end ML modeling: From raw data → pipelines → inference → dashboards  
 - ✅ Hands-on with cloud-native ML & analytics (AWS, Docker, BigQuery)  
 - ✅ Strong communicator: bridging tech, product, and business needs  
 - ✅ Focused on building **robust, scalable, explainable AI** solutions  
@@ -29,12 +26,6 @@ I'm **Sandeep Kasiraju**, I'm a detail-oriented data science professional and fo
 - **Data Engineering**: Pandas, NumPy, MongoDB, MySQL, ETL workflows  
 - **BI & Visualization**: Power BI, Tableau, Excel, Google Sheets  
 - **Dev Tools**: Git, VS Code, Jupyter, Flask, Bash, Agile, CI/CD basics
-
-
-### 📂 Highlighted Projects  
-- 🔍 **Real-Time Human Detection** – YOLOv3 + MPI/OpenMP for parallel video processing  
-- 📊 **Vision-Based ASL Alphabet Recognition Platform** - Deep Learning | Python, TensorFlow, Keras, Scikit-learn
-- 🏥 **Healthcare Analytics Platform** – EHR data pipelines with Flask, MongoDB, Docker    
 
 
 

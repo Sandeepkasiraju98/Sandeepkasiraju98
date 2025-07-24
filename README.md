@@ -3,7 +3,7 @@ I'm **Sandeep Kasiraju**, passionate and detail-oriented professional with hands
 
 ### 🚀 Who I Am  
 🎓 **M.S. in Data Science (4.0 GPA)** – University of Massachusetts Dartmouth  
-🏫 **B.Tech in Electrical & Electronics Engineering** – JNTU-H  
+🏫 **B.Tech** – JNTU-H College of Engineering 
 🏢 **Industry Experience**:  
 - 🔹 ML Data Associate @ **Amazon** – Built & validated ML pipelines  
 - 🔹 Data Scientist Intern @ **Corizo** – Delivered KPI-tracking dashboards & marketing analytics  
@@ -11,13 +11,18 @@ I'm **Sandeep Kasiraju**, passionate and detail-oriented professional with hands
 
 
 💼 What I Bring to the Table
-
 ✅ Full-stack experience across both intuitive front-end interfaces and scalable back-end systems
+
 ✅ Hands-on with cloud-native ML & analytics (AWS, Docker, BigQuery)
+
 ✅ Skilled in designing and scaling distributed systems and cloud architectures
+
 ✅ Proficient in unit testing, debugging, and writing clean, production-ready code
+
 ✅ Strong communicator: bridges engineering, product, and business teams
+
 ✅ Focused on building robust, explainable AI and user-centric applications
+
 ✅ Agile, analytical mindset – thrives in fast-paced environments and loves learning by shipping
 
 

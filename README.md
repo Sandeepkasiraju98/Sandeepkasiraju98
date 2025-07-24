@@ -11,19 +11,20 @@ I'm **Sandeep Kasiraju**, passionate and detail-oriented professional with hands
 
 
 💼 What I Bring to the Table
-✅ Full-stack experience across both intuitive front-end interfaces and scalable back-end systems
 
-✅ Hands-on with cloud-native ML & analytics (AWS, Docker, BigQuery)
+   ✅ Full-stack experience across both intuitive front-end interfaces and scalable back-end systems
 
-✅ Skilled in designing and scaling distributed systems and cloud architectures
+   ✅ Hands-on with cloud-native ML & analytics (AWS, Docker, BigQuery)
 
-✅ Proficient in unit testing, debugging, and writing clean, production-ready code
+   ✅ Skilled in designing and scaling distributed systems and cloud architectures
 
-✅ Strong communicator: bridges engineering, product, and business teams
+   ✅ Proficient in unit testing, debugging, and writing clean, production-ready code
 
-✅ Focused on building robust, explainable AI and user-centric applications
+   ✅ Strong communicator: bridges engineering, product, and business teams
 
-✅ Agile, analytical mindset – thrives in fast-paced environments and loves learning by shipping
+   ✅ Focused on building robust, explainable AI and user-centric applications
+
+   ✅ Agile, analytical mindset – thrives in fast-paced environments and loves learning by shipping
 
 
 

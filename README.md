@@ -1,51 +1,65 @@
-# Hi there 👋  
-I'm **Sandeep Kasiraju**, passionate and detail-oriented professional with hands-on experience in designing scalable software systems, developing automated data pipelines, and building simulation environments. Skilled in Python, C, C++, and SQL, with practical knowledge of cloud platforms like AWS and distributed systems such as Apache Spark and Hadoop. Experienced in backend development, containerized deployments, and cross-functional collaboration with hardware and AI teams. Adept at writing efficient, production-ready code, solving complex problems, and delivering innovative software solutions that drive measurable business value and enhance user experience.
+# 👋 Hi there, I'm **Sandeep Kasiraju**
 
-### 🚀 Who I Am  
-🎓 **M.S. in Data Science (4.0 GPA)** – University of Massachusetts Dartmouth  
-🏫 **B.Tech** – JNTU-H College of Engineering 
-🏢 **Industry Experience**:  
-- 🔹 ML Data Associate @ **Amazon** – Built & validated ML pipelines  
-- 🔹 Data Scientist Intern @ **Corizo** – Delivered KPI-tracking dashboards & marketing analytics  
- 
+I'm a passionate and detail-oriented professional with hands-on experience in designing **scalable software systems**, building **automated data pipelines**, and working in **simulation environments**. I bring a strong foundation in both software engineering and data science, with practical exposure to **cloud platforms**, **distributed computing**, and **cross-functional collaboration**.
 
+I love turning complex technical problems into elegant, real-world solutions that drive **measurable business value** and elevate the **user experience**. Whether it’s backend architecture, full-stack development, or ML-driven data products — I thrive in fast-paced, collaborative environments where impact matters.
 
-💼 What I Bring to the Table
+---
 
-   ✅ Full-stack experience across both intuitive front-end interfaces and scalable back-end systems
+### 🚀 Who I Am
 
-   ✅ Hands-on with cloud-native ML & analytics (AWS, Docker, BigQuery)
+* 🎓 **M.S. in Data Science (4.0 GPA)** — University of Massachusetts Dartmouth
+* 🏫 **B.Tech in Computer Science** — JNTU-H College of Engineering
+* 🏢 **Industry Experience**
 
-   ✅ Skilled in designing and scaling distributed systems and cloud architectures
+  * 🔹 **Amazon** – ML Data Associate
+  * 🔹 **Corizo** – Data Scientist Intern
 
-   ✅ Proficient in unit testing, debugging, and writing clean, production-ready code
+---
 
-   ✅ Strong communicator: bridges engineering, product, and business teams
+### 💼 What I Bring to the Table
 
-   ✅ Focused on building robust, explainable AI and user-centric applications
+* ✅ Full-stack experience across intuitive front-end interfaces and scalable back-end systems
+* ✅ Hands-on with cloud-native ML workflows and analytics (AWS, Docker, BigQuery)
+* ✅ Experienced in designing and scaling **distributed systems** and **cloud-native architectures**
+* ✅ Skilled in **unit testing**, debugging, and writing clean, production-ready code
+* ✅ Strong communicator — able to bridge engineering, product, and business needs
+* ✅ Focused on building **robust, explainable AI** and **user-centric applications**
+* ✅ Agile, analytical mindset — loves learning fast and shipping even faster
 
-   ✅ Agile, analytical mindset – thrives in fast-paced environments and loves learning by shipping
+---
 
+### 🛠️ Core Technical Skills
 
+**Programming Languages:**
+Python, C, C++, SQL, R
 
-### 🛠️ Core Technical Skills  
-- **Programming**: Python, C, C++, SQL, R
-- **Networking & Protocol Tools**: Wireshark, hping3 (familiar)
-- **Web Development**: HTML, CSS, JavaScript, Flask, REST APIs, Node.js
--	**Cloud & Infrastructure**: AWS (Lambda, S3, EC2, Rekognition, API Gateway, Glue), Docker, Kubernetes, Google Cloud, CI/CD, Git, Agile
--	**Databases**: MySQL, PostgreSQL, MongoDB, BigQuery, DynamoDB
--	**Big Data & Distributed Systems**: Apache Spark, Hadoop
--	**Tools**: Visual Studio Code, PyCharm, Jupyter, Linux/Unix
--	**Visualization**: Power BI, D3.js, Matplotlib, Seaborn, Plotly
+**Web Development:**
+HTML, CSS, JavaScript, REST APIs, Flask, Node.js
 
+**Cloud & Infrastructure:**
+AWS (Lambda, EC2, S3, Glue, Rekognition, API Gateway), Docker, Kubernetes, Google Cloud, CI/CD, Git, Agile
 
+**Databases:**
+MySQL, PostgreSQL, MongoDB, DynamoDB, BigQuery
 
+**Big Data & Distributed Systems:**
+Apache Spark, Hadoop
 
-### 📫 Let's Connect  
-📧 **Email**: [sandeep.kasiraju98@gmail.com](mailto:sandeep.kasiraju98@gmail.com)  
-🔗 **LinkedIn**: [Sandeep Kasiraju](https://www.linkedin.com/in/sandeepkasiraju98/)  
-🌐 **Portfolio**: Coming soon – demo dashboards, notebooks & visualizations  
+**Visualization & Analytics:**
+Power BI, Matplotlib, Seaborn, Plotly, D3.js
 
+**Tools & Platforms:**
+Jupyter, PyCharm, Visual Studio Code, Linux/Unix, Wireshark, hping3 (familiar)
 
-Thanks for visiting!  
-Always open to **data-driven challenges**, **research collaborations**, or **career opportunities** in the AI and data space. Let's build something impactful 🚀
+---
+
+### 📫 Let’s Connect
+
+* 📧 **Email:** [sandeep.kasiraju98@gmail.com](mailto:sandeep.kasiraju98@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/sandeepkasiraju98](https://www.linkedin.com/in/sandeepkasiraju98/)
+
+---
+
+Thanks for stopping by - excited to connect and collaborate!
+

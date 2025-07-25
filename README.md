@@ -13,7 +13,7 @@ I love turning complex technical problems into elegant, real-world solutions tha
 * 🏢 **Industry Experience**
 
   * 🔹 **Amazon** – ML Data Associate
-  * 🔹 **Corizo** – Data Scientist Intern
+  * 🔹 **Corizo** – Data Science Intern
 
 ---
 

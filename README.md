@@ -9,7 +9,7 @@ I love turning complex technical problems into elegant, real-world solutions tha
 ### 🚀 Who I Am
 
 * 🎓 **M.S. in Data Science (4.0 GPA)** — University of Massachusetts Dartmouth
-* 🏫 **B.Tech in Computer Science** — JNTU-H College of Engineering
+* 🏫 **Bachelor of Technology** — JNTU-H College of Engineering
 * 🏢 **Industry Experience**
 
   * 🔹 **Amazon** – ML Data Associate

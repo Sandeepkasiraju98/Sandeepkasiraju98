@@ -14,6 +14,8 @@
 
 ### 📬 Connect with Me
 
+---
+
 📧 **Email:**
 <ul>
   <li><a href="mailto:sandeep.kasiraju98@gmail.com">sandeep.kasiraju98@gmail.com</a> (personal)</li>
@@ -30,4 +32,3 @@
 Thanks for visiting my GitHub! 😊  
 Let’s build something impactful together.
 
-it has to look really impressive

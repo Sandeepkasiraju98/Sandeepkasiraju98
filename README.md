@@ -1,6 +1,6 @@
 # Hi there, I'm Sandeep 👋
 
-🎓 I'm a Master's student in Data Science at UMass Dartmouth (Graduating Aug ’25)  
+🎓 I'm a Master's student in Data Science at UMass Dartmouth 
 💡 Passionate about full-stack development, machine learning, and building cloud-based, scalable systems that solve real-world problems  
 🚀 Currently seeking **Full-Time 2025 roles** in **Software Engineering**, **Data Science**, and **AI/ML**
 

@@ -8,7 +8,7 @@
 
 ### 🛠 Tech Stack
 
-**Languages & Markup:** Python, JavaScript (ES6), C, SQL, R, HTML, CSS  
+**Languages & Markup:** Python, JavaScript (ES6), C/C++, SQL, R, HTML, CSS  
 **Frameworks & Tools:** Flask, FastAPI, Node.js, ReactJS, D3.js  
 **Technologies & Services:** RESTful APIs, AWS, Google Cloud, Docker, Kubernetes, MongoDB, MySQL, Git
 

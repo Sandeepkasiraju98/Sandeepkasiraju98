@@ -18,8 +18,7 @@
 
 📧 **Email:**
 <ul>
-  <li><a href="mailto:sandeep.kasiraju98@gmail.com">sandeep.kasiraju98@gmail.com</a> (personal)</li>
-  <li><a href="mailto:vkasiraju@umassd.edu">vkasiraju@umassd.edu</a> (school)</li>
+  <li><a href="mailto:sandeep.kasiraju98@gmail.com">sandeep.kasiraju98@gmail.com</a> </li>
 </ul>
 
 <a href="https://www.linkedin.com/in/sandeep-kasiraju-ba9176177/" target="_blank">

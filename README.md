@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Sandeep
 
 🎓 I'm a Master’s graduate in Data Science from UMass Dartmouth
+
 💡 Passionate about full-stack development, machine learning, and building scalable, cloud-based systems that solve real-world problems  
 🚀 Currently seeking **Full-Time 2025 roles** in **Software Engineering**, **Data & Analytics**, **Cloud** and **AI/ML**
 

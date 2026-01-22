@@ -4,7 +4,6 @@
 💡 Passionate about full-stack development, machine learning, and building scalable, cloud-based systems that solve real-world problems<br>
 🚀 Currently seeking **Full-Time 2025 roles** in **Software Engineering**, **Data & Analytics**, **Cloud**, and **AI/ML**
 
-
 ---
 
 ### 🛠 Tech Stack

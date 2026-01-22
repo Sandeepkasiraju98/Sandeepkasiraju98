@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sandeep
+## 👋 Hi there, I'm Sandeep
 
 🎓 Master’s graduate in Data Science from UMass Dartmouth<br>
 💡 Passionate about full-stack development, machine learning, and building scalable, cloud-based systems that solve real-world problems<br>

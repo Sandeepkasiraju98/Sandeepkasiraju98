@@ -9,9 +9,14 @@
 
 ### 🛠 Tech Stack
 
-**Languages & Markup:** Python, JavaScript (ES6), C/C++, SQL, R, HTML, CSS  
-**Frameworks & Tools:** Flask, FastAPI, Node.js, ReactJS, D3.js  
-**Technologies & Services:** RESTful APIs, AWS, Google Cloud, Docker, Kubernetes, PostgreSQL, MongoDB, MySQL, Git
+**Programming**: Python, SQL, R, C, C++, JavaScript (Node.js), Bash/Shell
+**ML & AI**: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, NLP, Computer Vision, Time Series, LLMs/GenAI, MLOps
+**Data Engineering**: Apache Spark (PySpark), Hadoop, dbt, Airflow, Kafka, ETL/ELT, Data Warehousing, Medallion Architecture
+**Databases**: PostgreSQL, MySQL, MongoDB, BigQuery, Snowflake, DynamoDB, Redshift
+**Cloud & Infra**: AWS (S3, Lambda, EC2, Redshift, Glue, SageMaker, Athena), Google Cloud, Docker, Kubernetes, Terraform, CI/CD
+**Visualization**: Power BI, Tableau, D3.js, Matplotlib, Seaborn, Plotly, Looker
+**Web & Frameworks**: Flask, FastAPI, Node.js, ReactJS, HTML, CSS
+**Tools**: Git, REST APIs, Jupyter, Linux, Agile/Scrum
 
 ### 📬 Connect with Me
 

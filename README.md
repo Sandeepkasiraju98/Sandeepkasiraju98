@@ -3,7 +3,7 @@
 🎓 Applied Data Science Research Assistant at University of Massachusetts Dartmouth<br>
 💡 3+ years as a Data Scientist<br>
 🌟 AWS Certified Machine Learning Engineer – Associate<br>
-🚀 Currently seeking **Full-Time 2026 roles** in **AI/ML**, **Data & Analytics**, **Cloud**, and **Software Engineering**,
+🚀 Currently seeking **Full-Time 2026 roles** in **AI/ML**, **Data & Analytics**, and **Cloud**,
 
 ---
 

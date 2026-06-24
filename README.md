@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Sandeep
 
 🎓 Applied Data Science Research Assistant at University of Massachusetts Dartmouth<br>
-💡 4+ years as a Data Professional<br>
 🌟 AWS Certified Machine Learning Engineer – Associate<br>
 🚀 Currently seeking **Full-Time 2026 roles** in **AI/ML**, **Data & Analytics**, and **Cloud**
 
